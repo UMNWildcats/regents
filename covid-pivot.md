@@ -13,7 +13,7 @@ Official links:
 
 > "I think [reporting public COVID data] is fairly simple. Number of tests given. Number of positive tests received. Let's not hide the data from the students who's data is being used for the material. Let's not underestimate the public and student's ability to manage and understand the data and the limitations of the data." - **Regent Richard Beeson** #UMNProud
 
-### Pivot Proposal's Disengenuous Riders
+### Pivot Proposal's Disingenuous Riders
 
 > **UMN President Gabel's** COVID "Pivot" proposal disingenuously combines two issues: (1) opening the UMN to on-campus learning and (2) delaying the on-campus student move in date. **Gabel** frames the move-in delay as a fairness and safety issue. The proposal passed 8-3.
 
@@ -49,7 +49,7 @@ Official links:
 >> :eyes: shoehorning cherry picked data for future decisions.
 >>> The Chair, **Kendall Powell**, praised and embraced **McMillan's** pandemic analysis.
 
-### Regent Worry over Legal Liabiilty
+### Regent Worry over Legal Liability
 
 > [**Regent McMillan** is concerned with the legal liability between language in the UMN housing contract and student "risks". Particularly, when it comes to their parents.](https://www.youtube.com/watch?v=XBFLX2Fs2U4&feature=youtu.be&t=8667)
 
@@ -86,6 +86,6 @@ During the meeting **Regent Thomas Anderson** stated he was for the proposal, bu
 
 > **Regent Richard Beeson** is a champion for remote learning, public health, and charging students honestly. Thank you! #UMNProud
 
-> [Thank you **Regent Darrin Rosha** for putting the health and safety of Minnesota your first priority! #UMNPride](https://youtu.be/XBFLX2Fs2U4?t=5844)
+> [Thank you **Regent Darrin Rosha** for making the health and safety of Minnesota your first priority! #UMNProud](https://youtu.be/XBFLX2Fs2U4?t=5844)
 
 > **Regents Beeson, Hsu, and Rosha**: thank you for being advocates for students, faculty, staff, and our whole community. #UMNProud #MNProud
