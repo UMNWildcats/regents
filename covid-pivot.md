@@ -37,7 +37,7 @@ Official links:
 
 > [UofM **Regent Sviggum** is not acting in a fashion that is exercising reasonable care in his responsibilities to keep students and our community safe.](https://youtu.be/XBFLX2Fs2U4?t=8933)
 
-> [**Sviggum** ridiculed the panels health expert, **Dr. Michael Osterholm**, for his concern over COVID transmission during the Stergies Bike Rally, but that "chaos in protests were not held up to the same health concerns". The UMN Board of **Regents Chair Kendall Powell** did not call on **Dr. Osterholm** to respond to **Sviggum** racist analogy.](https://youtu.be/XBFLX2Fs2U4?t=5539)
+> [**Sviggum** ridiculed the panels health expert, **Dr. Michael Osterholm**, for his concern over COVID transmission during the Stergies Bike Rally, but that "chaos in protests were not held up to the same health concerns". The UMN Board of **Regents Chair Kendall Powell** did not call on **Dr. Osterholm** to respond to **Sviggum's** racist analogy.](https://youtu.be/XBFLX2Fs2U4?t=5539)
 
 > [**Sviggum** should resign from the University Board or Regents, again.](https://www.mprnews.org/story/2012/03/08/sviggum-dayton-embarrassment)
 
