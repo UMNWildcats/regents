@@ -7,7 +7,7 @@ Official links:
  - [Meeting Info](https://regents.umn.edu/august-2020-board-regents-meeting)
  - [Docket (PDF)](https://regents.umn.edu/sites/regents.umn.edu/files/2020-08/docket-bor-aug2020.pdf)
  
-## Reports from Meeting
+## Notes from Meeting
  
 ### Hiding COVID Data from the Public
 
