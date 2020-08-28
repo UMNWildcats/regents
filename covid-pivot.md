@@ -1,4 +1,6 @@
-# August 24th 2020 COVID Pivot Meeting
+# University of Minnesota's Board of Regents Special Meeting for COVID Pivot Proposal
+
+August 24th 2020
 
 Official links:
  - [Meeting Video](https://www.youtube.com/watch?v=XBFLX2Fs2U4)
