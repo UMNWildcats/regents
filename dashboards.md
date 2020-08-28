@@ -46,7 +46,7 @@ Campus Dashboards:
 
 ### Quarantine and Isolation Housing Space
 
-#### Number of isolation and quarnatine rooms available
+#### Number of isolation and quarantine rooms available
 
 | Date | Count |
 |-|-|
@@ -77,7 +77,7 @@ Campus Dashboards:
 
 ### COVID-19 tests
 
-If the Crookston campus collects COVID data from the country for students, factuly, and staff to make health decisions, they do not report it.
+If the Crookston campus collects COVID data from the country for students, faculty, and staff to make health decisions, they do not report it.
 
 > The University of Minnesota Crookston works closely with Polk County Public Health (PCPH) and local professional healthcare providers to administer COVID-19 testing.  As UMN Crookston does not administer tests directly on campus, we are unable to provide testing data beyond countywide data provided publicly by PCPH.  The data reported here are solely for students living in UMN Crookston residence halls.  Isolation spaces are provided for students who test positive for COVID-19.
 
@@ -121,7 +121,7 @@ If the Crookston campus collects COVID data from the country for students, factu
 
 #### Non-student positive cases
 
-This data is inferred from Number of tests and Student postive cases.
+This data is inferred from Number of tests and Student posi/tive cases.
 
 | Date Range | Count |
 |-|-|
@@ -137,7 +137,7 @@ This data is inferred from Number of tests and Student postive cases.
 
 ### Quarantine and Isolation Housing Space
 
-#### Number of isolation and quarnatine rooms available
+#### Number of isolation and quarantine rooms available
 
 | Date | Count |
 |-|-|
@@ -168,7 +168,7 @@ This data is inferred from Number of tests and Student postive cases.
 
 ### COVID-19 tests
 
-If the Morris campus collects COVID data from the country for students, factuly, and staff to make health decisions, they do not report it or explain why.
+If the Morris campus collects COVID data from the country for students, faculty, and staff to make health decisions, they do not report it or explain why.
 
 ### Quarantine and Isolation Housing Space
 
@@ -177,7 +177,7 @@ At low counts, Morris uses special values.
 >\* To protect students' private health and identifying information, values greater than zero and less than 6 will not be displayed.
 >\*\* To protect students' private health and identifying information, percentages greater than zero and less than 16 will not be displayed.
 
-#### Number of isolation and quarnatine rooms available
+#### Number of isolation and quarantine rooms available
 
 | Date | Count |
 |-|-|
@@ -205,13 +205,13 @@ At low counts, Morris uses special values.
 
 ### COVID-19 tests
 
-If the Rochester campus collects COVID data from the country for students, factuly, and staff to make health decisions, they do not report it.
+If the Rochester campus collects COVID data from the country for students, faculty, and staff to make health decisions, they do not report it.
 
 > Olmsted County Public Health is the sole source of testing for the county and provides the University of Minnesota Rochester (UMR) with weekly data for the 18-24 year old age category.
 
 ### Quarantine and Isolation Housing Space
 
-#### Number of isolation and quarnatine rooms available
+#### Number of isolation and quarantine rooms available
 
 | Date | Count |
 |-|-|
