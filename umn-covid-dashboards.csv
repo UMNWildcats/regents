@@ -1,0 +1,41 @@
+Week End Date,Data Type,Source,Value
+2020-07-18,Weekly Percentage of postive cases,MDH,4.60%
+2020-07-25,Weekly Percentage of postive cases,MDH,4.90%
+2020-08-01,Weekly Percentage of postive cases,MDH,4.90%
+2020-08-08,Weekly Percentage of postive cases,MDH,4.70%
+2020-08-15,Weekly Percentage of postive cases,MDH,4.70%
+2020-08-27,Weekly Number of tests,Boynton,182
+2020-08-27,Weekly Student positive cases,Boynton,2
+2020-08-27,Weekly Non-student positive cases,Boynton,2
+2020-08-27,Weekly Total positive cases,Boynton,4
+2020-08-27,Weekly Percentage of postive cases,Boynton,2.20%
+2020-08-27,Cumulative Number of tests,Boynton,2590
+2020-08-27,Cumulative Student positive cases,Boynton,79
+2020-08-27,Cumulative Non-student positive cases,Boynton,41
+2020-08-27,Cumulative Total positive cases,Boynton,120
+2020-08-27,Cumulative Percentage of postive cases,Boynton,4.60%
+2020-08-27,Total rooms available,Crookston,18
+2020-08-27,Number of isolation rooms in use,Crookston,0
+2020-08-27,Percentage of total rooms occupied,Crookston,0.00%
+2020-08-27,Total rooms available,Duluth,196
+2020-08-27,Number of isolation rooms in use,Duluth,0
+2020-08-27,Number of quarntine rooms in use,Duluth,0
+2020-08-27,Percentage of total rooms occupied,Duluth,0.00%
+2020-08-27,Total rooms available,Morris,30
+2020-08-27,Number of isolation rooms in use,Morris,0
+2020-08-27,Number of quarntine rooms in use,Morris,0
+2020-08-27,Percentage of total rooms occupied,Morris,0
+2020-08-27,Total rooms available,Rochester,NA
+2020-08-27,Number of isolation rooms in use,Rochester,0
+2020-08-27,Number of quarntine rooms in use,Rochester,0
+2020-08-27,Percentage of total rooms occupied,Rochester,NA
+2020-08-27,Total rooms available,Twin Cities,407
+2020-08-27,Number of isolation rooms in use,Twin Cities,0
+2020-08-27,Number of quarntine rooms in use,Twin Cities,0
+2020-08-27,Percentage of total rooms occupied,Twin Cities,0.00%
+2020-08-27,Weekly Number of tests,UMD-HS,3
+2020-08-27,Weekly Student positive cases,UMD-HS,1
+2020-08-27,Weekly Percentage of postive cases,UMD-HS,33.00%
+2020-08-27,Cumulative Number of tests,UMD-HS,5
+2020-08-27,Cumulative Student positive cases,UMD-HS,1
+2020-08-27,Cumulative Percentage of postive cases,UMD-HS,20.00%
