@@ -7,7 +7,7 @@ Campus Dashboards:
   - [Morris](https://morris.umn.edu/covid-19-resources/covid-19-dashboard)
   - [Rochester](https://r.umn.edu/COVID-19-Dashboard)
 
-Overall, this is great news. (Much better than no data.) [A high positive percent rate means](https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html) indicates there is a high number of people who are infected and do not know it. It is a critical stat for judging personal safety at the U.
+Overall, this is great news. (Much better than no data.) [A high positive percent rate indicates there is a high number of people who are infected and do not know it](https://www.jhsph.edu/covid-19/articles/covid-19-testing-understanding-the-percent-positive.html). It is a critical stat for judging personal safety at the U.
 
 That doesn't mean we don't need more data! I'm not sure if the UofMN has data collected from other sources or if they are allowed to release that data. During a test people are supposed to state where they go to school or work, so the state should have this data. FOIA
 
