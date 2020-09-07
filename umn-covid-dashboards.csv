@@ -39,3 +39,41 @@ Week End Date,Data Type,Source,Value
 2020-08-27,Cumulative Number of tests,UMD-HS,5
 2020-08-27,Cumulative Student positive cases,UMD-HS,1
 2020-08-27,Cumulative Percentage of postive cases,UMD-HS,20.00%
+2020-09-04,Weekly Number of tests,Boynton,104
+2020-09-04,Weekly Student positive cases,Boynton,4
+2020-09-04,Weekly Non-student positive cases,Boynton,0
+2020-09-04,Weekly Total positive cases,Boynton,4
+2020-09-04,Weekly Percentage of postive cases,Boynton,3.80%
+2020-09-04,Cumulative Number of tests,Boynton,2694
+2020-09-04,Cumulative Student positive cases,Boynton,83
+2020-09-04,Cumulative Non-student positive cases,Boynton,41
+2020-09-04,Cumulative Total positive cases,Boynton,124     
+2020-09-04,Cumulative Percentage of postive cases,Boynton,4.60%
+2020-09-01,Total rooms available,Crookston,19                  
+2020-09-01,Number of isolation rooms in use,Crookston,0        
+2020-09-01,Percentage of total rooms occupied,Crookston,0.00%
+2020-09-01,Number of students quarentening on campus,Crookston,18
+2020-09-04,Total rooms available,Duluth,196                      
+2020-09-04,Number of isolation rooms in use,Duluth,2             
+2020-09-04,Number of quarntine rooms in use,Duluth,0
+2020-09-04,Percentage of total rooms occupied,Duluth,1.00%
+2020-09-04,Total rooms available,Morris,30                
+2020-09-04,Number of isolation rooms in use,Morris,7      
+2020-09-04,Number of quarntine rooms in use,Morris,0.00%
+2020-09-04,Percentage of total rooms occupied,Morris,23.00%
+2020-09-04,Total rooms available,Rochester,NA              
+2020-09-04,Number of isolation rooms in use,Rochester,0.00%
+2020-09-04,Number of quarntine rooms in use,Rochester,0.00%
+2020-09-04,Percentage of total rooms occupied,Rochester,NA 
+2020-09-04,Total rooms available,Twin Cities,603           
+2020-09-04,Number of isolation rooms in use,Twin Cities,2 
+2020-09-04,Number of quarntine rooms in use,Twin Cities,0
+2020-09-04,Percentage of total rooms occupied,Twin Cities,0.30%
+2020-09-04,Weekly Number of tests,UMD-HS,7
+2020-09-04,Weekly Student positive cases,UMD-HS,1
+2020-09-04,Weekly Percentage of postive cases,UMD-HS,14.00%
+2020-09-04,Cumulative Number of tests,UMD-HS,10
+2020-09-04,Cumulative Student positive cases,UMD-HS,2.20%
+2020-09-04,Cumulative Percentage of postive cases,UMD-HS,20.00%
+2020-09-02,Cumulative Number of tests,GopherSports,1406
+2020-09-02,Cumulative Student positive cases,GopherSports,43
