@@ -1,79 +1,157 @@
-Week End Date,Data Type,Source,Value
-2020-07-18,Weekly Percentage of postive cases,MDH,4.60%
-2020-07-25,Weekly Percentage of postive cases,MDH,4.90%
-2020-08-01,Weekly Percentage of postive cases,MDH,4.90%
-2020-08-08,Weekly Percentage of postive cases,MDH,4.70%
-2020-08-15,Weekly Percentage of postive cases,MDH,4.70%
-2020-08-27,Weekly Number of tests,Boynton,182
-2020-08-27,Weekly Student positive cases,Boynton,2
-2020-08-27,Weekly Non-student positive cases,Boynton,2
-2020-08-27,Weekly Total positive cases,Boynton,4
-2020-08-27,Weekly Percentage of postive cases,Boynton,2.20%
-2020-08-27,Cumulative Number of tests,Boynton,2590
-2020-08-27,Cumulative Student positive cases,Boynton,79
+Date Reported,Data Type,Source,Value
+2020-08-01,Weekly Percentage of positive cases,MDH-Statewide,0.05
+2020-08-08,Weekly Percentage of positive cases,MDH-Hennepin,0.06
+2020-08-08,Weekly Percentage of positive cases,MDH-Ramsey,0.113
+2020-08-08,Weekly Percentage of positive cases,MDH-Statewide,0.047
+2020-08-08,Weekly Percentage of positive cases,MDH-StLouis,0.038
+2020-08-15,Weekly Percentage of positive cases,MDH-Hennepin,0.057
+2020-08-15,Weekly Percentage of positive cases,MDH-Ramsey,0.088
+2020-08-15,Weekly Percentage of positive cases,MDH-Statewide,0.048
+2020-08-15,Weekly Percentage of positive cases,MDH-StLouis,0.035
+2020-08-22,Weekly Percentage of positive cases,MDH-Hennepin,0.059
+2020-08-22,Weekly Percentage of positive cases,MDH-Ramsey,0.099
+2020-08-22,Weekly Percentage of positive cases,MDH-Statewide,0.05
+2020-08-22,Weekly Percentage of positive cases,MDH-StLouis,0.029
 2020-08-27,Cumulative Non-student positive cases,Boynton,41
+2020-08-27,Cumulative Number of tests,Boynton,2590
+2020-08-27,Cumulative Percentage of positive cases,Boynton,0.046
+2020-08-27,Cumulative Student positive cases,Boynton,79
 2020-08-27,Cumulative Total positive cases,Boynton,120
-2020-08-27,Cumulative Percentage of postive cases,Boynton,4.60%
-2020-08-27,Total rooms available,Crookston,18
+2020-08-27,Weekly Non-student positive cases,Boynton,2
+2020-08-27,Weekly Number of tests,Boynton,182
+2020-08-27,Weekly Percentage of positive cases,Boynton,0.022
+2020-08-27,Weekly Student positive cases,Boynton,2
+2020-08-27,Weekly Total positive cases,Boynton,4
 2020-08-27,Number of isolation rooms in use,Crookston,0
-2020-08-27,Percentage of total rooms occupied,Crookston,0.00%
-2020-08-27,Total rooms available,Duluth,196
+2020-08-27,Percentage of total rooms occupied,Crookston,0
+2020-08-27,Total rooms available,Crookston,18
 2020-08-27,Number of isolation rooms in use,Duluth,0
 2020-08-27,Number of quarntine rooms in use,Duluth,0
-2020-08-27,Percentage of total rooms occupied,Duluth,0.00%
-2020-08-27,Total rooms available,Morris,30
+2020-08-27,Percentage of total rooms occupied,Duluth,0
+2020-08-27,Total rooms available,Duluth,196
 2020-08-27,Number of isolation rooms in use,Morris,0
 2020-08-27,Number of quarntine rooms in use,Morris,0
 2020-08-27,Percentage of total rooms occupied,Morris,0
-2020-08-27,Total rooms available,Rochester,NA
+2020-08-27,Total rooms available,Morris,30
 2020-08-27,Number of isolation rooms in use,Rochester,0
 2020-08-27,Number of quarntine rooms in use,Rochester,0
-2020-08-27,Percentage of total rooms occupied,Rochester,NA
-2020-08-27,Total rooms available,Twin Cities,407
+2020-08-27,Percentage of total rooms occupied,Rochester,
+2020-08-27,Total rooms available,Rochester,
 2020-08-27,Number of isolation rooms in use,Twin Cities,0
 2020-08-27,Number of quarntine rooms in use,Twin Cities,0
-2020-08-27,Percentage of total rooms occupied,Twin Cities,0.00%
-2020-08-27,Weekly Number of tests,UMD-HS,3
-2020-08-27,Weekly Student positive cases,UMD-HS,1
-2020-08-27,Weekly Percentage of postive cases,UMD-HS,33.00%
+2020-08-27,Percentage of total rooms occupied,Twin Cities,0
+2020-08-27,Total rooms available,Twin Cities,407
 2020-08-27,Cumulative Number of tests,UMD-HS,5
+2020-08-27,Cumulative Percentage of positive cases,UMD-HS,0.2
 2020-08-27,Cumulative Student positive cases,UMD-HS,1
-2020-08-27,Cumulative Percentage of postive cases,UMD-HS,20.00%
-2020-09-04,Weekly Number of tests,Boynton,104
-2020-09-04,Weekly Student positive cases,Boynton,4
-2020-09-04,Weekly Non-student positive cases,Boynton,0
-2020-09-04,Weekly Total positive cases,Boynton,4
-2020-09-04,Weekly Percentage of postive cases,Boynton,3.80%
-2020-09-04,Cumulative Number of tests,Boynton,2694
-2020-09-04,Cumulative Student positive cases,Boynton,83
-2020-09-04,Cumulative Non-student positive cases,Boynton,41
-2020-09-04,Cumulative Total positive cases,Boynton,124     
-2020-09-04,Cumulative Percentage of postive cases,Boynton,4.60%
-2020-09-01,Total rooms available,Crookston,19                  
-2020-09-01,Number of isolation rooms in use,Crookston,0        
-2020-09-01,Percentage of total rooms occupied,Crookston,0.00%
+2020-08-27,Weekly Number of tests,UMD-HS,3
+2020-08-27,Weekly Percentage of positive cases,UMD-HS,0.33
+2020-08-27,Weekly Student positive cases,UMD-HS,1
+2020-08-29,Weekly Percentage of positive cases,MDH-Hennepin,0.055
+2020-08-29,Weekly Percentage of positive cases,MDH-Ramsey,0.094
+2020-08-29,Weekly Percentage of positive cases,MDH-Statewide,0.055
+2020-08-29,Weekly Percentage of positive cases,MDH-StLouis,0.035
+2020-09-01,Number of isolation rooms in use,Crookston,0
 2020-09-01,Number of students quarentening on campus,Crookston,18
-2020-09-04,Total rooms available,Duluth,196                      
-2020-09-04,Number of isolation rooms in use,Duluth,2             
-2020-09-04,Number of quarntine rooms in use,Duluth,0
-2020-09-04,Percentage of total rooms occupied,Duluth,1.00%
-2020-09-04,Total rooms available,Morris,30                
-2020-09-04,Number of isolation rooms in use,Morris,7      
-2020-09-04,Number of quarntine rooms in use,Morris,0.00%
-2020-09-04,Percentage of total rooms occupied,Morris,23.00%
-2020-09-04,Total rooms available,Rochester,NA              
-2020-09-04,Number of isolation rooms in use,Rochester,0.00%
-2020-09-04,Number of quarntine rooms in use,Rochester,0.00%
-2020-09-04,Percentage of total rooms occupied,Rochester,NA 
-2020-09-04,Total rooms available,Twin Cities,603           
-2020-09-04,Number of isolation rooms in use,Twin Cities,2 
-2020-09-04,Number of quarntine rooms in use,Twin Cities,0
-2020-09-04,Percentage of total rooms occupied,Twin Cities,0.30%
-2020-09-04,Weekly Number of tests,UMD-HS,7
-2020-09-04,Weekly Student positive cases,UMD-HS,1
-2020-09-04,Weekly Percentage of postive cases,UMD-HS,14.00%
-2020-09-04,Cumulative Number of tests,UMD-HS,10
-2020-09-04,Cumulative Student positive cases,UMD-HS,2.20%
-2020-09-04,Cumulative Percentage of postive cases,UMD-HS,20.00%
+2020-09-01,Percentage of total rooms occupied,Crookston,0
+2020-09-01,Total rooms available,Crookston,19
 2020-09-02,Cumulative Number of tests,GopherSports,1406
 2020-09-02,Cumulative Student positive cases,GopherSports,43
+2020-09-04,Cumulative Non-student positive cases,Boynton,41
+2020-09-04,Cumulative Number of tests,Boynton,2694
+2020-09-04,Cumulative Percentage of positive cases,Boynton,0.046
+2020-09-04,Cumulative Student positive cases,Boynton,83
+2020-09-04,Cumulative Total positive cases,Boynton,124
+2020-09-04,Weekly Non-student positive cases,Boynton,0
+2020-09-04,Weekly Number of tests,Boynton,104
+2020-09-04,Weekly Percentage of positive cases,Boynton,0.038
+2020-09-04,Weekly Student positive cases,Boynton,4
+2020-09-04,Weekly Total positive cases,Boynton,4
+2020-09-04,Number of isolation rooms in use,Duluth,2
+2020-09-04,Number of quarntine rooms in use,Duluth,0
+2020-09-04,Percentage of total rooms occupied,Duluth,0.01
+2020-09-04,Total rooms available,Duluth,196
+2020-09-04,Number of isolation rooms in use,Morris,7
+2020-09-04,Number of quarntine rooms in use,Morris,0
+2020-09-04,Percentage of total rooms occupied,Morris,0.23
+2020-09-04,Total rooms available,Morris,30
+2020-09-04,Number of isolation rooms in use,Rochester,0
+2020-09-04,Number of quarntine rooms in use,Rochester,0
+2020-09-04,Percentage of total rooms occupied,Rochester,
+2020-09-04,Total rooms available,Rochester,
+2020-09-04,Number of isolation rooms in use,Twin Cities,2
+2020-09-04,Number of quarntine rooms in use,Twin Cities,0
+2020-09-04,Percentage of total rooms occupied,Twin Cities,0.003
+2020-09-04,Total rooms available,Twin Cities,603
+2020-09-04,Cumulative Number of tests,UMD-HS,10
+2020-09-04,Cumulative Percentage of positive cases,UMD-HS,0.2
+2020-09-04,Cumulative Student positive cases,UMD-HS,0.022
+2020-09-04,Weekly Number of tests,UMD-HS,7
+2020-09-04,Weekly Percentage of positive cases,UMD-HS,0.14
+2020-09-04,Weekly Student positive cases,UMD-HS,1
+2020-09-05,Weekly Percentage of positive cases,MDH-Hennepin,0.046
+2020-09-05,Weekly Percentage of positive cases,MDH-Ramsey,0.047
+2020-09-05,Weekly Percentage of positive cases,MDH-Statewide,0.046
+2020-09-05,Weekly Percentage of positive cases,MDH-StLouis,0.042
+2020-09-08,Number of isolation rooms in use,Crookston,0
+2020-09-08,Number of students quarentening on campus,Crookston,16
+2020-09-08,Percentage of total rooms occupied,Crookston,0
+2020-09-08,Total rooms available,Crookston,19
+2020-09-10,Cumulative Non-student positive cases,Boynton,41
+2020-09-10,Cumulative Number of tests,Boynton,2816
+2020-09-10,Cumulative Percentage of positive cases,Boynton,0.046
+2020-09-10,Cumulative Student positive cases,Boynton,87
+2020-09-10,Cumulative Total positive cases,Boynton,128
+2020-09-10,Weekly Non-student positive cases,Boynton,0
+2020-09-10,Weekly Number of tests,Boynton,122
+2020-09-10,Weekly Percentage of positive cases,Boynton,0.033
+2020-09-10,Weekly Student positive cases,Boynton,4
+2020-09-10,Weekly Total positive cases,Boynton,4
+2020-09-10,Number of isolation rooms in use,Duluth,0
+2020-09-10,Number of quarntine rooms in use,Duluth,0
+2020-09-10,Percentage of total rooms occupied,Duluth,0
+2020-09-10,Total rooms available,Duluth,196
+2020-09-10,Number of isolation rooms in use,Morris,0
+2020-09-10,Number of quarntine rooms in use,Morris,0
+2020-09-10,Percentage of total rooms occupied,Morris,0
+2020-09-10,Total rooms available,Morris,30
+2020-09-10,Number of isolation rooms in use,Rochester,1
+2020-09-10,Number of quarntine rooms in use,Rochester,1
+2020-09-10,Percentage of total rooms occupied,Rochester,
+2020-09-10,Total rooms available,Rochester,
+2020-09-10,Number of isolation rooms in use,Twin Cities,0
+2020-09-10,Number of quarntine rooms in use,Twin Cities,1
+2020-09-10,Percentage of total rooms occupied,Twin Cities,0.0002
+2020-09-10,Total rooms available,Twin Cities,602
+2020-09-10,Cumulative Number of tests,UMD-HS,16
+2020-09-10,Cumulative Percentage of positive cases,UMD-HS,0.25
+2020-09-10,Cumulative Student positive cases,UMD-HS,4
+2020-09-10,Weekly Number of tests,UMD-HS,6
+2020-09-10,Weekly Percentage of positive cases,UMD-HS,0.33
+2020-09-10,Weekly Student positive cases,UMD-HS,2
+2020-09-17,Cumulative Non-student positive cases,Boynton,41
+2020-09-17,Cumulative Number of tests,Boynton,3026
+2020-09-17,Cumulative Percentage of positive cases,Boynton,0.049
+2020-09-17,Cumulative Student positive cases,Boynton,106
+2020-09-17,Cumulative Total positive cases,Boynton,147
+2020-09-17,Weekly Non-student positive cases,Boynton,0
+2020-09-17,Weekly Number of tests,Boynton,210
+2020-09-17,Weekly Percentage of positive cases,Boynton,0.091
+2020-09-17,Weekly Student positive cases,Boynton,19
+2020-09-17,Weekly Total positive cases,Boynton,19
+2020-09-17,Number of isolation rooms in use,Crookston,1
+2020-09-17,Number of students quarentening on campus,Crookston,4
+2020-09-17,Percentage of total rooms occupied,Crookston,4
+2020-09-17,Total rooms available,Crookston,19
+2020-09-17,Number of isolation rooms in use,Morris,0
+2020-09-17,Number of quarntine rooms in use,Morris,0
+2020-09-17,Percentage of total rooms occupied,Morris,0
+2020-09-17,Total rooms available,Morris,30
+2020-09-17,Number of isolation rooms in use,Rochester,1
+2020-09-17,Number of quarntine rooms in use,Rochester,1
+2020-09-17,Percentage of total rooms occupied,Rochester,
+2020-09-17,Total rooms available,Rochester,
+2020-09-17,Number of isolation rooms in use,Twin Cities,0
+2020-09-17,Number of quarntine rooms in use,Twin Cities,3
+2020-09-17,Percentage of total rooms occupied,Twin Cities,0.00005
+2020-09-17,Total rooms available,Twin Cities,600
